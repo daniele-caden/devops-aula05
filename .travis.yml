@@ -1,8 +1,7 @@
-
-
-language: python
+languagem: python
 python:
   - "3.4"
-script:/
-  - cd src: python testes.py
+script:
+  - cd src; python testes.py
+
 
